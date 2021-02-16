@@ -1,7 +1,12 @@
 Territory map
 ====
 [Live page](https://skyrossm.github.io/np-gangmap/)
-This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
+This interactive (Google) map shows you the location of territory/gang zones.
+
+##Download
+1. Downloade die Map: https://workupload.com/file/tQMeGnArVuc
+2. Ziehe die Dateien in: "gangmap"
+
 
 ## Screenshots
 
@@ -28,15 +33,6 @@ This interactive (Google) map shows you the location of current NoPixel territor
 3. Run `python -m SimpleHTTPServer` in the source folder if you don't have an Nginx/Apache
 3.b Python 3 run `python -m http.server`
 
-## License
-
-[WTFPL](LICENSE)
-
 ## Version
 
 1.0
-
-## Credits
-
-To [danharper](https://github.com/danharper/) for [his work](https://github.com/danharper/GTAV) on the GTA V map.
-To [gta5-map](https://github.com/gta5-map) for [their work](https://github.com/gta5-map/gta5-map.github.io) on the GTA V map.
